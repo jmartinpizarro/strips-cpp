@@ -41,6 +41,7 @@
 *.dwo
 
 # CMake outputs
+build/
 CMakeFiles/
 CMakeCache.txt
 *.cmake
